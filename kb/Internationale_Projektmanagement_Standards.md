@@ -2,7 +2,7 @@
 title: Internationale_Projektmanagement_Standards
 tags: agil klassisch
 author: laura1mueller
-anrechnung: k oder a
+anrechnung: k 
 ---
 
 Kurzbeschreibung zu Internationale_Projektmanagement_Standards um ein erstes Verständnis dafür zu schaffen um was es hier geht.
@@ -10,16 +10,10 @@ Kurzbeschreibung zu Internationale_Projektmanagement_Standards um ein erstes Ver
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Zielsetzung von Internationalen PM Standards
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Internationale Projekte werden in Zukunft deutlisch zunehmen [^1]. Neben Projektmanagement Normen, die besonders deutlich im Grundsatzpapier der verschiedenen Organisationen definiert werden, ist es bei Projektmanagement Standards deutlich schwerer den genauen Inhalt und die Zielsetzung herauszufinden [^2].Standards können unter anderem als als Richtlinie oder als eine Referenzdarstellung..
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
 
 Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
 Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
@@ -37,7 +31,7 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
+# Auswahl der Standards
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -49,7 +43,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 *lustiges Testbild*
 
-# Aspekt 2
+# Internationale Standards
 
 * das
 * hier 
@@ -58,7 +52,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Punkteliste
   - mit unterpunkt
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+## PMI: project Management Body of Knowledge (PMBOK)
 
 So kann man eine Tabelle erstellen:
 
@@ -67,11 +61,11 @@ So kann man eine Tabelle erstellen:
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+## IPMA: Competence Baseline der International Projektmanagement Association mit der ICB
 
 Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-### Ebene-3-Überschrift
+### Prince 2
 
 Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
 Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
@@ -97,8 +91,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://link.springer.com/chapter/10.1007/978-3-662-54432-7_16
+[https://www.haufe-akademie.de/blog/themen/projekt-prozessmanagement/drei-standards-ein-ziel-projekte-erfolgreich-managen/)
+[^2]: [https://www.assure.de/sites/default/files/media/downloads/whitepaper_projektmanagement_standards_vergleich.pdf)
+
 
